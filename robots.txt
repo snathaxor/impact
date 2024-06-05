@@ -1,0 +1,30 @@
+User-agent: *
+Disallow: /Blog.html
+Disallow: /Analysis.html
+Disallow: /Quote.html
+Disallow: /Contact.html
+Disallow: /PPortal.html
+Disallow: /Portal.html
+Disallow: /PrivacyPolicyCA.html
+Disallow: /PrivacyPolicy.html
+Disallow: /404.html.html
+Disallow: /Specialties.html
+Disallow: /About.html
+Disallow: /VirtualAssistance.html
+Disallow: /PriorAuthorization.html
+Disallow: /Patient.html
+Disallow: /Hospital.html
+Disallow: /Eligibility.html
+Disallow: /Credentialing.html
+Disallow: /AR.html
+Disallow: /mail-success.html
+
+Allow: /Index.html
+Allow: /Services.html
+Allow: /MedicalBilling.html
+Allow: /AIBlog.html
+Allow: /HIPAACHCBlog.html
+Allow: /HIPAABlog.html
+Allow: /Top5Blog.html
+
+Sitemap: https://www.impactrcm.com/sitemap.html
